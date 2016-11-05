@@ -1,0 +1,21 @@
+{
+  "name": "gcffund-portal",
+  "description": "Portal for GCF Fund Contractors to submit documentation in fulfillment of their funding",
+  "main": "index.js",
+  "authors": [
+    "Darren Anderson"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
