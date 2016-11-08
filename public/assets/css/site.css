@@ -50,7 +50,21 @@ tr.gcffund-outcome td {
 table.gcffund-projects tr td:first-child {
   width: 150px;
   font-weight: bold;
-  vertical-align: middle;
+  vertical-align: top;
+}
+
+table.gcffund-projects ol {
+  padding-left: 18px;
+}
+
+table.gcffund-projects tr.fieldset-indicators dl dt {
+  /*display: inline-block;*/
+  width: 50px;
+  float: left;
+}
+table.gcffund-projects dl dd {
+  /*display: block;*/
+  margin-left: 50px;
 }
 
 /*.gcffund-example {
