@@ -1,0 +1,11 @@
+{
+  "verbose": true,
+  "ignore": ["private/*",
+    "node_modules/*",
+    ".git/"
+  ],
+  "watch": [
+    "assets/js"
+  ],
+  "ext": "js, json"
+}
